@@ -22,8 +22,9 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/images/ghost.jpg
+    - assets/images/background.jpg
     - assets/images/pumpkin.png
+    - assets/images/ghost1.png
     - assets/sounds/jumpscare.mp3
     - assets/sounds/success.mp3
-    - assets/sounds/spooky_background.mp3
+    - assets/sounds/background_music.mp3
